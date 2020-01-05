@@ -7,3 +7,4 @@ class CreateCats < ActiveRecord::Migration
     end
   end
 end
+ 
